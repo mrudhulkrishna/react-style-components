@@ -1,0 +1,21 @@
+$primaryColor:#db9334;
+$secondaryColor:#d1f0de;
+$headingFond:sans-serif;
+$baseFondsize:16px;
+$color:#fff;
+
+.container{
+    background-color: $primaryColor;
+    color: $secondaryColor;
+    border-radius: 4px;
+}
+.header{
+    color:$color;
+    font-family:$headingFond ;
+    font-size: $baseFondsize;
+    border: 10px;
+}
+.description{
+    font-size: $baseFondsize;
+    color: brown;
+}
